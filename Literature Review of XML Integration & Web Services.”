@@ -62,6 +62,11 @@ Literature Review on two seminal papers: "What Are Web Services?"By Christopher 
    A lack of clear standards in crucial areas like security and quality of service (QoS) further stifles the full realization of Web Services. 
    As Kreger (2003) has mentioned, WS-Security and the other infrastructure standards are still in development, which may cause delays in the widespread implementation of Web Services in strategic business applications.
 
+   Conclusion
+      Web services are changing the way businesses and applications interact across different platforms and programming languages. 
+   Although the basic concepts and architecture of Web services have been around for some time, much work remains to be done in terms of interoperability, security, and the establishment of common standards. 
+   As evaluated by Ferris and Farrell (2003) and Kreger (2003), interoperability must still be achieved in order for Web services to reach their full potential. 
+   Other obstacles, however, do stand in the way of taking advantage of Web services-eight benefits related to flexibility, scalability, and integration-required for any modern enterprise.
 
 Output:
 
