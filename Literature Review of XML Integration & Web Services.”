@@ -3,8 +3,7 @@ by: Lawrence Heras
 
 Goal:
    The primary objective of this literature review is to compare web services and XML integration to make a comparative analysis. focusing on their advantages, best practices, and real-world applications. 
-   Web services and XML Integration are the cornerstones of contemporary software communication, especially due to distributed computing and enterprise application systems. 
-   Web Services, by definition, allow applications to communicate over the internet, whereas XML Integration allows structured information to be exchanged across different systems.
+    Web services and XML play a critical role in modern software architecture by enabling interoperability and data exchange across heterogeneous systems.
 
 Role:
    A researcher analyzing existing studies, journal articles, and technical documentation.
