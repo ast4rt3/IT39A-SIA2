@@ -46,7 +46,14 @@ Literature Review on two seminal papers: "What Are Web Services?"By Christopher 
    This paper examines all the technologies that could support each of these groups and how they relate to the overall infrastructure of Web Services. 
    Also, Kreger points out problems that arise on the technical side of implementing Web Services and how specifications and standards must still be improved.
 
+   Strengths and benefits:
+      Many features within the Web Services framework improve the way businesses and applications interact. One major such feature is the decoupling of service interfaces from service implementations. 
+   This decoupling allows dynamic service binding. Without this flexibility, service access would be impossible across different platforms and programming languages (Kreger, 2003). 
+   Besides that, the XML-based service description of WSDL (Web Services Description Language) ensures interoperability and cross-language communication, which is of prime importance in the enterprise application integration context (Ferris & Farrell, 2003).
+   Web Services also support B2B (business-to-business) integration, with organizations exposing services over the web for smooth communication between different systems.
+   This feature has made Web Services particularly useful in scenarios such as grid computing and utility-based service models where applications need to be accessed on-demand over the Internet (Kreger, 2003).
 
+   Weakness and Limitation
 
 
 Output:
