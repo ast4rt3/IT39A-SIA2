@@ -27,8 +27,27 @@ Situation:
 
    I am expected to present my findings to an audience of instructors, software developers, and students, summarizing the strengths
    and weaknesses of both technologies.
-   
-   
+
+..............................................................................................................................................................................................................
+
+Literature Review on two seminal papers: "What Are Web Services?"By Christopher Ferris and Joel Farrell (2003), and "Fulfilling the Web Services Promise"  By Heather Kreger(2003).
+
+   Introduction
+         The development and operation of Web Services have radically changed digital services and enterprise systems. Web Services enable communication between heterogeneous applications via the Internet,
+      regardless of their platform and programming languages. 
+      This concept draws on an architecture wherein applications communicate to one another through XML, SOAP, and other standard protocols. 
+
+   Summary
+         In the view of Ferris and Farrell (2003), Web services are introduced by examining their formal definitions and their place in the grand scheme of distributed computing importance. 
+   The basic elements of web services, such as service provider, service requestor, and service discovery service, are put forth. 
+   Then some focus is directed toward the standards that these services abide by and the protocols through which they communicate via XML and SOAP.
+   Kreger (2003) carries the discussion further by comparing and contrasting the technologies needed for Web Services to work. 
+   There she presents the Web Services stack, divided broadly into three groups: the interaction layer, service description layer, and discovery agencies layer. 
+   This paper examines all the technologies that could support each of these groups and how they relate to the overall infrastructure of Web Services. 
+   Also, Kreger points out problems that arise on the technical side of implementing Web Services and how specifications and standards must still be improved.
+
+
+
 
 Output:
 
