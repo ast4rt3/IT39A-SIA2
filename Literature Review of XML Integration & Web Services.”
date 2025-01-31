@@ -54,6 +54,13 @@ Literature Review on two seminal papers: "What Are Web Services?"By Christopher 
    This feature has made Web Services particularly useful in scenarios such as grid computing and utility-based service models where applications need to be accessed on-demand over the Internet (Kreger, 2003).
 
    Weakness and Limitation
+      Needless to say, the advantages of Web Services are vast, yet their full-scale implementation has suffered due to challenges confronting these services. 
+   One of the biggest drawbacks is the dependence on discovery agencies for the advertisement and location of Web Services.
+   If these discovery mechanisms are not designed well, it can limit the information exchange on Web Services 
+   making it painstaking for service consumers to find and use the given services (Kreger, 2003); besides, 
+   as stated by Ferris and Farrell (2003), the Web Services stack is still evolving, and important standards for Interoperability, Security, and Management should be finalized to enable the full exploitation of the framework.
+   A lack of clear standards in crucial areas like security and quality of service (QoS) further stifles the full realization of Web Services. 
+   As Kreger (2003) has mentioned, WS-Security and the other infrastructure standards are still in development, which may cause delays in the widespread implementation of Web Services in strategic business applications.
 
 
 Output:
